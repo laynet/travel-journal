@@ -14,7 +14,7 @@ A simple ReactJS app using a local hard-coded data file.
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](src/images/screenshot.png)
 
 ### Links
 
