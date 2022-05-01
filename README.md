@@ -10,7 +10,7 @@
 - [Author](#author)
 
 ## Overview
-A simple ReactJS app using a local hard-coded data file.
+A simple ReactJS app using a local hard-coded data file deployed with netlify.
 
 ### Screenshot
 
