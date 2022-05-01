@@ -18,8 +18,7 @@ A simple ReactJS app using a local hard-coded data file.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [my travel journal](https://lively-ganache-a6ff36.netlify.app/)
 
 ## My process
 
@@ -36,4 +35,5 @@ This was a very simple front end project built with create-react-app used as a r
 ## Author
 
 - Twitter - [@laynerzzzz](https://twitter.com/laynerzzzz)
+- LinkedIn - [Layne Taylor] (https://www.linkedin.com/in/layne-taylor/)
 
